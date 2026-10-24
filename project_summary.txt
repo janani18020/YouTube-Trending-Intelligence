@@ -1,0 +1,39 @@
+
+YOUTUBE TRENDING INTELLIGENCE
+Project 4: YouTube Trending Video Analytics
+
+DATASETS
+- India: 33,089 cleaned records
+- USA: 40,901 cleaned records
+- Great Britain: 38,745 cleaned records
+- Total: 112,735 cleaned records
+
+KEY FINDINGS
+
+1. Most-viewed categories by country:
+- India: Gaming, approximately 3.61 million average views.
+- USA: Music, approximately 6.20 million average views.
+- Great Britain: Music, approximately 12.44 million average views.
+
+2. Average engagement rates:
+- India: 2.45%
+- Great Britain: 3.80%
+- USA: 3.89%
+
+3. Category observations:
+- Music performs strongly in the USA and Great Britain.
+- Gaming has the highest average views in India.
+- Film & Animation is among the top five categories in all three countries.
+
+TOOLS USED
+- Python
+- Pandas
+- Matplotlib
+- SQLite and SQL
+- Jupyter Notebook
+
+CONCLUSION
+The analysis shows differences in trending video categories and
+average engagement rates across India, the USA, and Great Britain.
+These findings describe the selected historical trending-video
+datasets and can help identify patterns in video popularity.
